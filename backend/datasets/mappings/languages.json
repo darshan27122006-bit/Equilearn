@@ -1,0 +1,101 @@
+{
+    "major": {
+        "en": {
+            "name": "English",
+            "code": "en",
+            "indic_code": "eng_Latn"
+        },
+        "hi": {
+            "name": "Hindi",
+            "code": "hi",
+            "indic_code": "hin_Deva"
+        },
+        "ta": {
+            "name": "Tamil",
+            "code": "ta",
+            "indic_code": "tam_Taml"
+        },
+        "te": {
+            "name": "Telugu",
+            "code": "te",
+            "indic_code": "tel_Telu"
+        },
+        "kn": {
+            "name": "Kannada",
+            "code": "kn",
+            "indic_code": "kan_Knda"
+        },
+        "ml": {
+            "name": "Malayalam",
+            "code": "ml",
+            "indic_code": "mal_Mlym"
+        },
+        "bn": {
+            "name": "Bengali",
+            "code": "bn",
+            "indic_code": "ben_Beng"
+        }
+    },
+    "minor": {
+        "mr": {
+            "name": "Marathi",
+            "code": "mr",
+            "indic_code": "mar_Deva"
+        },
+        "gu": {
+            "name": "Gujarati",
+            "code": "gu",
+            "indic_code": "guj_Gujr"
+        },
+        "ur": {
+            "name": "Urdu",
+            "code": "ur",
+            "indic_code": "urd_Arab"
+        },
+        "or": {
+            "name": "Odia",
+            "code": "or",
+            "indic_code": "ory_Orya"
+        },
+        "pa": {
+            "name": "Punjabi",
+            "code": "pa",
+            "indic_code": "pan_Guru"
+        },
+        "as": {
+            "name": "Assamese",
+            "code": "as",
+            "indic_code": "asm_Beng"
+        },
+        "kok": {
+            "name": "Konkani",
+            "code": "kok",
+            "indic_code": "gom_Deva"
+        },
+        "mni": {
+            "name": "Manipuri",
+            "code": "mni",
+            "indic_code": "mni_Beng"
+        },
+        "brx": {
+            "name": "Bodo",
+            "code": "brx",
+            "indic_code": "brx_Deva"
+        },
+        "sat": {
+            "name": "Santhali",
+            "code": "sat",
+            "indic_code": "sat_Olch"
+        },
+        "ks": {
+            "name": "Kashmiri",
+            "code": "ks",
+            "indic_code": "kas_Arab"
+        },
+        "mai": {
+            "name": "Maithili",
+            "code": "mai",
+            "indic_code": "mai_Deva"
+        }
+    }
+}
