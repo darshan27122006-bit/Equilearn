@@ -1,3 +1,4 @@
+
 # AI-Based Multilingual Learning Assistant
 
 A complete production-ready web application for AI-powered multilingual education, supporting local and minority languages.
@@ -530,3 +531,5 @@ The system is designed for easy localization:
 ---
 
 **Built with ❤️ for linguistic diversity and educational accessibility**
+# Equilearn
+EquiLearn is an AI-powered educational web application built to address language barriers and learning gaps in modern education systems. The platform enables students to understand academic content in their preferred language with simplified explanations, audio support, and AI-driven assistance.  Team Name:Hyper coders
